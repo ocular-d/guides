@@ -22,5 +22,3 @@ A chapter break should occur when a major subject change happens.
 ## Sections
 
 Use sections within the chapter when the subject changes, but you are still discussing a particular aspect of a larger subject.
-
-

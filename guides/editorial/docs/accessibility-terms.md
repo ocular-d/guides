@@ -52,7 +52,7 @@ Deaf or hard-of-hearing
 Has limited mobility, has a mobility or physical disability
 ```
 
-```
+```markdown
 Is unable to speak, uses synthetic speech
 ```
 
@@ -71,6 +71,7 @@ Person with a prosthetic limb, person without a limb
 ```markdown
 People with disabilities
 ```
+
 **:thumbsdown: Incorrect** code for this rule:
 
 ```markdown

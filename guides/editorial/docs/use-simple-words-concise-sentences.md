@@ -41,10 +41,11 @@ Whenever possible, choose words that have one clear meaning.
 |----------------------------------------------------|---------------------------------------------------|
 |*Because* you created the table, you can change it. | *Since* you created the table, you can change it. |
 
-Omit unnecessary adverbs—words that describe how, when,or where.
+Omit unnecessary adverbs—words that describe how, when, or where.
 Unless they're important to the meaning of a statement, leave them out.
 
 **Examples**
+
 - Quite
 - Very
 - Quickly

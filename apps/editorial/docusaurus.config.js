@@ -68,8 +68,8 @@ const config = {
       navbar: {
         title: 'Editorial',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/ocld-logo.png',
         },
         items: [
           {
@@ -78,11 +78,13 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            //label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            "aria-label": "GitHub repository",
           },
         ],
       },

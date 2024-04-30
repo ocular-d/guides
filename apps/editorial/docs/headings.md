@@ -17,9 +17,7 @@ tags:
 
 Capitalize the first word of the title, unless it's a proper noun that starts with lowercase or a code snippet.
 
-**:thumbsup: Correct** code for this rule:
-
-```markdown
+```markdown title="✅ Do this"
 # The quick brown fox jumps over the lazy dog
 
 # React
@@ -29,9 +27,8 @@ Capitalize the first word of the title, unless it's a proper noun that starts wi
 # init main
 ```
 
-**:thumbsdown: Incorrect** code for this rule:
 
-```markdown
+```markdown title="⛔ Don't do this"
 
 # The Quick Brown Fox Jumps Over The Lazy Dog
 
@@ -49,15 +46,11 @@ Capitalize the first word of the title, unless it's a proper noun that starts wi
 Use the imperative form, especially when writing the title of a task, because it increases findability.
 In other words, avoid the gerundive form, because users don't use gerund when searching.
 
-**:thumbsup: Correct** code for this rule:
-
-```markdown
+```markdown title="✅ Do this"
 # Create a dashboard
 ```
 
-**:thumbsdown: Incorrect** code for this rule:
-
-```markdown
+```markdown title="⛔ Don't do this"
 # Creating a dashboard
 ```
 
@@ -69,17 +62,13 @@ Instead of using a long sentence, make the header a summary and write the long s
 
 This makes it effortless to refer to the header later, specially if automatic IDs or a TOC (Table Of Content) are created.
 
-**:thumbsup: Correct** code for this rule:
-
-```markdown
+```markdown title="✅ Do this"
 # One
 
 The summer is sparkling and awesome!
 ```
 
-**:thumbsdown: Incorrect** code for this rule:
-
-```markdown
+```markdown title="⛔ Don't do this"
 # The summer is sparkling and awesome!
 ```
 
@@ -92,24 +81,16 @@ Every header is an introduction to what is about to come next, which is exactly 
 
 The header is not a sentence, or at least only a short sentence, there is no need to add a sentence separator to it.
 
-**:thumbsup: Correct** code for this rule:
-
-```markdown
+```markdown title="✅ Do this"
 # One
 
 Sparkling and awesome.
 ```
 
-**:thumbsdown: Incorrect** code for this rule:
-
-```markdown
+```markdown title="⛔ Don't do this"
 # One: Sparkling
-```
 
-```markdown
 # One. Frozen.
-```
 
-```markdown
 # One #
 ```

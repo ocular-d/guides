@@ -32,6 +32,8 @@ tags:
 
 handle@domain.tld
 
+:heart:
+
 ## When examples are code
 
 When examples that the user is expected to replace occurs in a block of code, do the following:
@@ -70,7 +72,7 @@ Replace these values:
 
 1. Customize this code by replacing *`ACCOUNT_ID`* with the ID of your account and add it to `example.py`.
 
-```python{6}
+```python {6}
 import asyncio
 import aiohttp
 import json

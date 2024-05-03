@@ -14,7 +14,9 @@ tags:
 
 ---
 
-| :thumbsup: Use this         | :thumbsdown: Not this   |
+<!-- vale off -->
+
+| ✅ Do this         | ⛔ Don't do this   |
 |-----------------------------|-------------------------|
 | chair, moderator            | chairman                |
 | humanity, people, humankind | man, mankind            |
@@ -38,7 +40,7 @@ writing about real people who use those pronouns themselves.
 It's also OK to use gendered pronouns in content such as direct quotations and the titles of works and when gender
 is relevant, such as discussions about the challenges that people face in the workplace.
 
-**:thumbsup: Use**
+```markdown title="✅ Do this"
 
 The skills that Claire developed in the Marines helped her move into a thriving technology career.
 
@@ -51,6 +53,8 @@ his brothers, sisters, mom, and dad, knew that they—and his customers—were d
 
 Do you have a daughter?
 Here are a few things you can do to inspire and support her interest in STEM subjects.
+
+```
 
 **In fictitious scenarios, strive for diversity and avoid stereotypes in job roles.**
 
@@ -76,7 +80,8 @@ If you show various family groupings, consider showing nontraditional and extend
 If you name cities, countries, or regions in examples, make sure they're not politically disputed.
 In examples that refer to several regions, use equivalent references—for example, don't mix countries with states or continents.
 
-::: warning Attention
+:::warning Attention
+
 **Don't make generalizations about people, countries, regions, and cultures,** not even positive or neutral generalizations.
 
 **Don't use slang,** especially if it could be considered cultural appropriation, such as *spirit animal.*
@@ -84,9 +89,10 @@ In examples that refer to several regions, use equivalent references—for examp
 **Don't use profane or derogatory terms,** such as *pimp* or *bitch.*
 
 **Avoid culturally sensitive terms,** such as the terms associated with military or political actions or other historic events and eras.
+
 :::
 
-| :thumbsup: Use this | :thumbsdown: Not this    |
+| ✅ Do this | ⛔ Don't do this   |
 |---------------------|--------------------------|
 | master/subordinate  | master/slave             |
 | perimeter network   | demilitarized zone (DMZ) |
@@ -101,3 +107,12 @@ Don't mention a disability unless it's relevant.
 **Learn more**
 For more information about writing that conveys respect to all people and promotes equal opportunities,
 see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Guidelines for inclusive language") from the Linguistic Society of America.
+
+Pronouns and gender
+
+Instead, rewrite—for example, use the second person (you).
+Or refer to a person's role (customer, employee, or client).
+
+It's OK to use gendered pronouns (he or she) when you're writing about real people who use those pronouns themselves.
+
+<!-- vale on -->

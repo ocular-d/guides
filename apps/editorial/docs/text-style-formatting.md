@@ -14,7 +14,7 @@ tags:
 
 ---
 
-::: warning Note
+:::warning Note
  For more information about how to deal with code samples, check the [examples](./examples-placeholders.md "Link to Code Samples") section.
 
 An exhaustive list of use cases for the code font is available in the [Google Dev Style Guide](https://developers.google.com/style/code-in-text "Link to Google Dev Docs Style Guide").
@@ -57,19 +57,23 @@ Avoid referring to the file type using its extension.
 
 Don't use special formatting for file types.
 
-**:thumbsup: Correct**
+```markdown title="✅ Do this"
 
-A PNG file
+A PNG file.
 
-A Bash file
+A Bash file.
 
-**:thumbsdown: Don't use**
+```
 
-A .png file
+```markdown title="⛔ Don't do this"
+
+A <code>.png</code> file
 
 A `.png` file
 
 An `.sh` file
+
+```
 
 ## HTTP calls
 
@@ -89,6 +93,6 @@ GET the data.
 
 ## Anchors
 
-- Introduce anchors with the hashtag symbol (#)
-- Spell anchors in lower caps
-- Replace spaces in anchors with an hyphen (-)
+- Introduce anchors with the hashtag symbol (#).
+- Spell anchors in lower caps.
+- Replace spaces in anchors with a hyphen (-).

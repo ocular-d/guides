@@ -14,5 +14,5 @@ tags:
 
 ---
 
-- Use the default terminal of your Operating system
-- **Don't** customize the terminal with themes, colors and plugins
+- Use the default terminal of your Operating system.
+- **Don't** customize the terminal with themes, colors and plugins.

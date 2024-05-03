@@ -21,7 +21,7 @@ but write around it if you can.
 
 **Try to keep the focus on the customer, not on yourself**.
 
-**:thumbsup: Correct** code for this rule:
+✅ Do this:
 
 Select the people you want to give permission to.
 
@@ -29,6 +29,4 @@ We'll verify their identities before opening the document.
 
 In September, we took a major step forward in introducing the new version to our enterprise customers.
 
-
 <ContentRef url="https://heise.de">External link</ContentRef>
-

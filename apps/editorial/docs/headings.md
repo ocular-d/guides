@@ -18,6 +18,7 @@ tags:
 Capitalize the first word of the title, unless it's a proper noun that starts with lowercase or a code snippet.
 
 ```markdown title="✅ Do this"
+
 # The quick brown fox jumps over the lazy dog
 
 # React
@@ -26,7 +27,6 @@ Capitalize the first word of the title, unless it's a proper noun that starts wi
 
 # init main
 ```
-
 
 ```markdown title="⛔ Don't do this"
 

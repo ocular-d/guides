@@ -14,8 +14,12 @@ tags:
 
 ---
 
+<!-- vale off -->
+
 Don’t use language that defines people by their disability, such as disabled, impaired, and the deaf.  
 A person might have a visual impairment, but that person isn’t impaired.
+
+<!-- vale on -->
 
 ## Examples
 
@@ -38,70 +42,44 @@ see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/con
 
 ---
 
-**:thumbsup: Correct** code for this rule:
+```markdown title="✅ Do this"
 
-```markdown
 Blind, has low vision
-```
 
-```markdown
 Deaf or hard-of-hearing
-```
 
-```markdown
 Has limited mobility, has a mobility or physical disability
-```
 
-```markdown
 Is unable to speak, uses synthetic speech
-```
 
-```markdown
 Has multiple sclerosis, cerebral palsy, a seizure disorder, or muscular dystrophy
-```
 
-```markdown
 Without disabilities
-```
 
-```markdown
 Person with a prosthetic limb, person without a limb
-```
 
-```markdown
 People with disabilities
 ```
 
-**:thumbsdown: Incorrect** code for this rule:
+<!-- vale on -->
 
-```markdown
+```markdown title="⛔ Don't do this"
+
 Sight-impaired, vision-impaired
-```
 
-```markdown
 Hearing-impaired
-```
 
-```markdown
 Crippled, lame
-```
 
-```markdown
 Dumb, mute
-```
 
-```markdown
 Affected by, stricken with, suffers from, a victim of, an epileptic
-```
 
-```markdown
 Normal, able-bodied, healthy
-```
 
-```markdown
 Maimed, missing a limb
-```
 
-```markdown
 The disabled, disabled people, people with handicaps, the handicapped
 ```
+
+<!-- vale off -->

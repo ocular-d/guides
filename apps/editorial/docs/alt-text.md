@@ -25,20 +25,20 @@ It ensures that those readers get the same benefit from photos, charts, and othe
 - Include alt text for links and images
 - Add an [empty alt text](https://www.w3.org/WAI/tutorials/images/decorative/ "Documentation about decorative images on W3C") for decorative images
 - Describe the content of the image instead of using the generic term "image". For example, "Screenshot of" or "Diagram of"
-- Keep alt text to a maximum of 10-15 words
-- If an image is so complicated that requires more than a short description to provide value to readers,
+- Keep alt text to a maximum of 10–15 words
+- If an image is so complicated that it requires more than a short description to provide value to readers,
 consider providing a link to an explanatory text
 - Do not editorialize alt text.
 It should not include assumptions or interpretations of the image or describe subjects’ intentions
 - Make sure the description of the page's content is accurate to avoid [pogo sticking](https://www.nngroup.com/articles/pogo-sticking/ "Article about pogo sticking on NNGroup")
 - Avoid using "link" as most screen readers already add that word
-- [Avoid duplicate links](https://www.nngroup.com/articles/duplicate-links/ "Article about duplicate links on NNGroup") in the same article unless the links are very apart from each other.
-   - Unless it's a glossary file
-   - Unless it's email addresses (Although an article with duplicate email addresses could be rewritten!)
+- [Avoid duplicate links](https://www.nngroup.com/articles/duplicate-links/ "Article about duplicate links on NNGroup") in the same article unless the links are apart from each other.
+  - Unless it's a glossary file
+  - Unless it's email addresses (Although an article with duplicate email addresses could be rewritten!)
 
 ## Style tips
 
-- Avoid Saxon Genitive "'s" - For example "Acmecorp's website"
+- Avoid Saxon Genitive "'s" - For example, "Acmecorp's website"
 - Use consistent terminology when referring to content.
 For example, don't mix "Article about $" with "Chapter about $"
 - Follow the capitalization of proper names. For example, write "iOS" not "iOs", "venv" not "VENV"
@@ -68,7 +68,7 @@ This will ensure consistency.
 |Specific Acmecorp subsite concept documentation|Acmecorp Help Center documentation about Superfeature|
 |Specific Acmecorp subsite how-to documentation|Acmecorp Help Center documentation on how to Manage Superfeature|
 
-### Links to your documentation-subsite
+### Links to your documentation website
 
 For example, developers.acmecorp.com.
 

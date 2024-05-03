@@ -30,13 +30,13 @@ tags:
 - Refer to a person's role (*reader, employee, customer,* or *client,* for example).
 - Use *person* or *individual.*
 
-**When you're writing about a real person, use the pronouns that person prefers,** whether it's *he, she, they,* 
+**When you're writing about a real person, use the pronouns that person prefers,** whether it's *he, she, they,*
 or another pronoun.
 It's OK to use gendered pronouns (like *he, she, his,* and *hers*) when you're
 writing about real people who use those pronouns themselves.
 
 It's also OK to use gendered pronouns in content such as direct quotations and the titles of works and when gender
-is relevant, such as discussions about the challenges that women face in the workplace.
+is relevant, such as discussions about the challenges that people face in the workplace.
 
 **:thumbsup: Use**
 
@@ -60,7 +60,7 @@ Choose names that reflect a variety of gender identities and cultural background
 
 Depict a variety of people from all walks of life participating fully in activities.
 
-Be inclusive of gender identity, race, culture, ability, age,sexual orientation, and socioeconomic class.
+Be inclusive of gender identity, race, culture, ability, age, sexual orientation, and socioeconomic class.
 
 Show people in a wide variety of professions, educational settings,
 locales, and economic settings. Avoid using examples that reflect primarily a Western or affluent lifestyle.
@@ -91,7 +91,6 @@ In examples that refer to several regions, use equivalent references—for examp
 | master/subordinate  | master/slave             |
 | perimeter network   | demilitarized zone (DMZ) |
 |  stop responding    | hang                     |
-
 
 **Focus on people, not disabilities.**
 

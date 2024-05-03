@@ -14,7 +14,7 @@ tags:
 
 :::tip Theory is at the end of the article
 
-Check the [Theory](#theory "Theory section of the article") section at end of the article if you want to know why we are giving these suggestions
+Check the [Theory](#theory "Theory section of the article") section at end of the article if you want to know why you are giving these suggestions
 or just grab the quick tips.
 
 :::
@@ -22,6 +22,8 @@ or just grab the quick tips.
 ## Follow these recommendations
 
 When you use admonitions, keep these recommendations in mind:
+
+<!-- vale off -->
 
 - Before adding an admonition, ask yourself whether an admonition is really needed for that content
 - Give the admonition a meaningful title that hints at the content it contains. Don't use "Tip", "Info" or "Warning"
@@ -33,9 +35,11 @@ When you use admonitions, keep these recommendations in mind:
 - Never place two admonitions next to each other.
 - Don't nest admonitions.
 
+<!-- vale on -->
+
 ## Admonition types
 
-Use three admonition types: Tips, Infos, and Warnings.
+Use three admonition types: Tips, Info, and Warnings.
 
 ### Tip
 
@@ -54,7 +58,7 @@ It also conveys the possibility of soft errors when the recommendations containe
 
 :::warning Info's title
 
-This is a "info" admonition. Use it to give information about limitations, additional considerations, or warn the user about possible soft errors.
+This is an "info" admonition. Use it to give information about limitations, additional considerations, or warn the user about possible soft errors.
 
 :::
 

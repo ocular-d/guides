@@ -19,7 +19,8 @@ Use words with precise meanings, and remove words that don’t add substance.
 
 Use your judgment to avoid sounding abrupt or unfriendly.
 
-Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do*.
+Choose simple verbs without modifiers.
+Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do*.
 
 | :thumbsup: Use this | :thumbsdown: Not this             |
 |---------------------|-----------------------------------|

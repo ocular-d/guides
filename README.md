@@ -1,7 +1,6 @@
 # Guides
 
-Monorepo for all documentation guide using `pnpm`.
-
+Monorepo for all documentation guides using `pnpm`.
 
 ## Development setup
 
@@ -14,11 +13,13 @@ Monorepo for all documentation guide using `pnpm`.
 
 Make sure to have `Node` and `pnpm` installed, see https://pnpm.io/installation.
 
+## Getting started
+
+Clone your fork and run `pnpm` in the root for the repository.
 
 ## Notes
 
 Change into the directory of the guide you want under `apps` and do:
-
 
 `pnpm start`  
 Starts the development server.
@@ -34,5 +35,5 @@ Publishes the website to GitHub pages.
 
 We recommend that you begin by typing (for example):
 
-`cd editorial`  
+`cd apps/editorial`  
 `pnpm start`

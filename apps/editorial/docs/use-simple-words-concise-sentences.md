@@ -22,7 +22,7 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 Choose simple verbs without modifiers.
 Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do*.
 
-| :thumbsup: Use this | :thumbsdown: Not this             |
+| :✅ Do this | :⛔ Don't do this             |
 |---------------------|-----------------------------------|
 | use                 | utilize, make use of              |
 | remove              | extract, take away, eliminate     |
@@ -30,7 +30,7 @@ Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *
 
 Don’t use two or three words when one will do.
 
-| :thumbsup: Use this | :thumbsdown: Not this             |
+| :✅ Do this | :⛔ Don't do this             |
 |---------------------|-----------------------------------|
 | to                  | in order to, as a means to        |
 | also                | in addition                       |
@@ -38,7 +38,7 @@ Don’t use two or three words when one will do.
 
 Whenever possible, choose words that have one clear meaning.
 
-| :thumbsup: Use this                                | :thumbsdown: Not this                             |
+| :✅ Do this                                | :⛔ Don't do this                             |
 |----------------------------------------------------|---------------------------------------------------|
 |*Because* you created the table, you can change it. | *Since* you created the table, you can change it. |
 

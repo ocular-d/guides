@@ -36,7 +36,7 @@ tags:
 As an alternative to screenshots, describe the steps.
 For example, for straightforward instructions like, **To open a file, select File > Open,** a screenshot is not required.
 
-# Workflow
+## Workflow
 
 If you include a screenshot in a procedure, place it directly under the step that it illustrates.
 Do not rely on the screenshot to show information or values that the user must enter;
@@ -44,7 +44,7 @@ always provide that information in the text of the steps.
 
 Ensure that the screenshot accurately reflects the directions and values in the step text.
 
-# Checklist
+## Checklist
 
 - **Size:** Make screenshots no larger than 600 pixels wide.
 - **Scope:** Limit the scope of a screenshot to just the portion of the UI that shows the action, plus enough surrounding detail to help the user locate the item.

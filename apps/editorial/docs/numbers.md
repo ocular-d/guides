@@ -11,9 +11,6 @@ tags:
   - documents
 ---
 
-
----
-
 Spell out all numbers less than 10.  
 Try to avoid having a numeral and a noun denoting a number mixed up in one sentence.  
 

@@ -12,10 +12,9 @@ tags:
   - formatting
 ---
 
----
-
 :::warning Note
- For more information about how to deal with code samples, check the [examples](./examples-placeholders.md "Link to Code Samples") section.
+
+For more information about how to deal with code samples, check the [examples](./examples-placeholders.md "Link to Code Samples") section.
 
 An exhaustive list of use cases for the code font is available in the [Google Dev Style Guide](https://developers.google.com/style/code-in-text "Link to Google Dev Docs Style Guide").
 :::

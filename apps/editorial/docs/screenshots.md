@@ -11,8 +11,6 @@ tags:
   - media
 ---
 
----
-
 ## When
 
 - Orient users in a complicated or long procedure

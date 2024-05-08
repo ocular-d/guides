@@ -13,6 +13,7 @@ tags:
   - url
 ---
 
+Check: https://docs.gruntwork.io/guides/style/markdown-style-guide/#links
 
 ---
 

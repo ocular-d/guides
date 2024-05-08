@@ -11,9 +11,6 @@ tags:
   - People
 ---
 
-
----
-
 <!-- vale off -->
 
 Don’t use language that defines people by their disability, such as disabled, impaired, and the deaf.  

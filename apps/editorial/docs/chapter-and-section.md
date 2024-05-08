@@ -12,8 +12,6 @@ tags:
   - sections
 ---
 
----
-
 ## Chapter
 
 Use chapters to break up the document into smaller chunks.

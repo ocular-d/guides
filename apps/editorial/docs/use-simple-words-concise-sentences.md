@@ -13,8 +13,6 @@ tags:
   - clear
 ---
 
----
-
 Use words with precise meanings, and remove words that don’t add substance.
 
 Use your judgment to avoid sounding abrupt or unfriendly.

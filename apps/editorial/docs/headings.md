@@ -11,8 +11,6 @@ tags:
   - short
 ---
 
----
-
 ## Use sentence case
 
 Capitalize the first word of the title, unless it's a proper noun that starts with lowercase or a code snippet.

@@ -10,8 +10,6 @@ tags:
   - Admonitions
 ---
 
----
-
 :::tip Theory is at the end of the article
 
 Check the [Theory](#theory "Theory section of the article") section at end of the article if you want to know why you are giving these suggestions

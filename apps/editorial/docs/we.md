@@ -14,8 +14,6 @@ tags:
 
 import ContentRef from '@site/src/components/ContentRef'
 
----
-
 It's OK to use phrasing like "we recommend" if it helps you avoid awkward phrasing like "it's recommended",
 but write around it if you can.
 

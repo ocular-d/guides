@@ -11,8 +11,6 @@ tags:
   - content
 ---
 
----
-
 End all sentences with a period, even if they're only two words. Put one space, not two, after a period.
 
 ## Headline example

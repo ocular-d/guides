@@ -76,6 +76,14 @@ html[data-theme="dark"] {
   }
 }
 
+/* Custom horizontal line for h2 headings */
+/* https://github.com/datagrok-ai/public/blob/master/docusaurus/src/css/custom.css */
+h2 {
+  border-bottom:1px solid var(--ifm-toc-border-color);
+  margin-bottom:18px;
+  padding-bottom:6px
+}
+
 .navbar__title {
   font-size: 1.2em;
   font-weight: 500;

@@ -13,8 +13,6 @@ tags:
   - Alternative text
 ---
 
----
-
 [Alt text is an essential accessibility tool](https://aceseditors.org/news/2020/how-to-write-great-alt-text-and-why-it-matters) for users with visual impairments.
 It's a piece of text that explains the subject of an hyperlink or image so that screen readers can read it to users.
 

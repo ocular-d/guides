@@ -12,8 +12,6 @@ tags:
   - bias-free
 ---
 
----
-
 <!-- vale off -->
 
 | ✅ Do this         | ⛔ Don't do this   |

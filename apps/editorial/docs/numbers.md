@@ -11,26 +11,26 @@ tags:
   - documents
 ---
 
-Spell out all numbers less than 10.  
-Try to avoid having a numeral and a noun denoting a number mixed up in one sentence.  
+- Spell out all numbers less than 10.  
+- Try to avoid having a numeral and a noun denoting a number mixed up in one sentence.  
 
-```markdown title="✅ Do this"
+  ```markdown title="✅ Do this"
 
-There are three ways to implement this task.
+  There are three ways to implement this task.
 
-```
+  ```
 
-```markdown title="⛔ Don't do this"
+  ```markdown title="⛔ Don't do this"
 
-There are 3 ways to implement this task.
+  There are 3 ways to implement this task.
 
-There are 3 ways to implement this task, but we will go over two of them in this help topic.
+  There are 3 ways to implement this task, but we will go over two of them in this help topic.
 
-```
+  ```
 
 :::info Tables
 
-If you are adding numbers to a table, use numerals even for numbers 1-9.
+If you are adding numbers to a table, use numerals even for numbers 1-9.<br />
 Tables are meant to provide fast access to content for analysis.
 
 :::

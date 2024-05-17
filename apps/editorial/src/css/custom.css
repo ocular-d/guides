@@ -43,7 +43,7 @@ html[data-theme="dark"] {
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* montserrat-regular - latin */
+/* Verdana */
 @font-face {
   font-family: 'Verdana';
   font-style: normal;
@@ -90,8 +90,14 @@ h2 {
   padding-right: 1em;
 }
 
-/* GitHub icon in header */
+.navbar {
+  background-color: #ffffff;
+  /* box-shadow:var(--ifm-navbar-shadow); */
+  /* height:var(--ifm-navbar-height); */
+  /* padding:var(--ifm-navbar-padding-vertical) var(--ifm-navbar-padding-horizontal) */
+}
 
+/* GitHub icon in header */
 .header-github-link:hover {
   opacity: 0.6;
 }

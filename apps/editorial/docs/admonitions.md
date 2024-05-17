@@ -10,20 +10,20 @@ tags:
   - Admonitions
 ---
 
-:::tip Theory is at the end of the article
+Admonitions stand out from the main body of text to capture the reader’s attention on something important.
+For their nature, they break the reading flow and are perceived as a distraction by readers.
+If they appear frequently, readers will think that they don't contain important information, so they will skip them.
 
-Check the [Theory](#theory "Theory section of the article") section at end of the article if you want to know why you are giving these suggestions
-or just grab the quick tips.
-
-:::
-
-## Follow these recommendations
+Additionally, [research indicates](https://www.nngroup.com/articles/how-users-read-on-the-web/ "How users read on the Web by Nielsen Norman Group") that readers tend to scan the content rapidly
+and only turn their attention when they spot something important.
+By giving a meaningful title to an admonition, you'll reduce the cognitive load and the task completion time
+by allowing readers to spot at a glance if they are interested in the admonition or not.
 
 When you use admonitions, keep these recommendations in mind:
 
 <!-- vale off -->
 
-- Before adding an admonition, ask yourself whether an admonition is really needed for that content
+- Before adding an admonition, ask yourself whether an admonition is really needed for that content.
 - Give the admonition a meaningful title that hints at the content it contains. Don't use "Tip", "Info" or "Warning"
 - Use admonition types consistently. We explain when to use each type later in the article.
 - If the admonition is about a specific step, place it inside the step.
@@ -68,14 +68,3 @@ human damage, and consequent liability if caution is not used or if the recommen
 :::danger Warning's title
 This is a "warning" admonition. Use it to warn the user about possible fatal errors and possibility of service disruption.
 :::
-
-## Theory
-
-Admonitions stand out from the main body of text to capture the reader’s attention on something important.
-For their nature, they break the reading flow and are perceived as a distraction by readers.
-If they appear frequently, readers will think that they don't contain important information, so they will skip them.
-
-Additionally, [research indicates](https://www.nngroup.com/articles/how-users-read-on-the-web/ "How users read on the Web by Nielsen Norman Group") that readers tend to scan the content rapidly
-and only turn their attention when they spot something important.
-By giving a meaningful title to an admonition, you'll reduce the cognitive load and the task completion time
-by allowing readers to spot at a glance if they are interested in the admonition or not.
